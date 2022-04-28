@@ -1,4 +1,4 @@
-# Projetos Campo de Java - Cod3r
+# Projetos Java - Cod3r
 
 Neste repositório se encontram os projetos realizados no curso **"Java 2022 COMPLETO: Do Zero ao Profissional + Projetos!"**, na plataforma Udemy, ministrado pelo professor Leonardo Moura Leitão, para prática dos conceitos até então ensinados.
 
