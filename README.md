@@ -8,4 +8,4 @@ O projeto consiste numa implementação básica e inicial da lógica do jogo "Ca
 O projeto implementa conceitos de **lambdas e programação funcional**, **Stream API** e **utilização de exceções**, pela visão orientada a objetos. Foi feita ainda uma prática inicial do uso de **testes unitários**.
 
 **Campo Minado - Swing**
-O projeto seguinte consiste numa melhoria do projeto de Campo Minado anterior, desta vez implementando uma interface visual, ao invés de interface via console. Nele, foi utilizada a biblioteca **Java SWING**.
+O projeto seguinte consiste numa melhoria do projeto de Campo Minado anterior, desta vez implementando uma interface visual, ao invés de interface via console. Nele, foi utilizada a biblioteca **Java SWING**, além da utilização do padrão de projeto **Observer**.
