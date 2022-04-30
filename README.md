@@ -6,7 +6,7 @@ Neste repositório se encontram os projetos realizados no curso **"Java 2022 COM
 
 O projeto consiste numa implementação básica e inicial da lógica do jogo "Campo Minado", ou "Minesweeper", no qual o jogador busca revelar a posição de todos os campos do tabuleiro, sem escolher os campos que possuam minas, as quais causam a derrota. A visualização do jogo, com seus campos e tabuleiro, assim como a entrada de instruções, foi toda realizada em console.
 
-    O projeto implementa conceitos de **lambdas e programação funcional**, **Stream API** e **utilização de exceções**, pela visão orientada a objetos. Foi feita ainda uma prática inicial do uso de **testes unitários**.
+O projeto implementa conceitos de **lambdas e programação funcional**, **Stream API** e **utilização de exceções**, pela visão orientada a objetos. Foi feita ainda uma prática inicial do uso de **testes unitários**.
 
 - **Campo Minado - Swing**
 
