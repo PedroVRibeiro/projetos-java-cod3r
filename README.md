@@ -11,3 +11,7 @@ O projeto implementa conceitos de **lambdas e programação funcional**, **Strea
 - **Campo Minado - Swing**
 
 O projeto seguinte consiste numa melhoria do projeto de Campo Minado anterior, desta vez implementando uma interface visual, ao invés de interface via console. Nele, foi utilizada a biblioteca **Java SWING**, além da utilização do padrão de projeto **Observer**.
+
+- **Calculadora**
+
+Neste último projeto foi desenvolvida uma calculadora simples, emulando o visual e funcionalidades das calculadoras já presentes nos SO's atuais. Foi implementada uma interface visual, utilizando novamente o padrão de projeto **Observer**. Há espaço ainda para adicionar novas funcionalidades e melhorar o projeto.
